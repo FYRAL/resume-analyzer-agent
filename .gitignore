@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+dist/
+build/
+*.egg-info/
+venv/
+.env
+.venv/
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-error.log*
+# If using Vite/React:
+/dist
+/build
+
+# IDEs, Editors, OS
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.log
+.DS_Store
+Thumbs.db
